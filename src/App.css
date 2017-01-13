@@ -1,0 +1,30 @@
+.app {
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.appHeader {
+  background-color: #222;
+  height: 160;
+  padding: 40;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  box-shadow: 0 2px 4px #ddd;
+}
+
+.appBanner, .appIntro {
+  text-align: center;
+}
+
+.appBanner {
+  font-size: 80;
+  color: white;
+}
+
+.appIntro {
+  margin-top: 40;
+  font-size: 40;
+  line-height: 60;
+}
