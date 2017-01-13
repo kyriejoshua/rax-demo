@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+please use node v6.8.1
+
 ### `npm run start`
 
 Runs the app in development mode.
